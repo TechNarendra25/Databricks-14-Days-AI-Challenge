@@ -201,7 +201,7 @@ for creating such an incredible hands-on learning experience.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/posts/narendra-vispute_databrickswithidc-databricks-apachespark-activity-7422308203117477888-lPHz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhiyLYBpG5e219v2slmeZ6Prhz_zmf_SY4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
